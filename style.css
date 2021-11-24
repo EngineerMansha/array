@@ -1,0 +1,14 @@
+body {
+
+background-color: azure;
+text-align:none;
+font-family: 'Courier New', Courier, monospace;
+font-size: 40px;
+}
+
+li:hover{
+    color: blueviolet;
+    background-color: chocolate;
+    display:run-in;
+
+}
